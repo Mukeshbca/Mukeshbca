@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,20&height=150&section=header&text=Mukesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=120&section=header" />
 </p>
 
 <p align="center">
@@ -81,7 +81,10 @@ Building the future of AI-powered offensive security
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&row=2&column=3" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&row=1&column=6" width="97%" />
 </p>
 
 <p align="center">
@@ -103,5 +106,5 @@ Building the future of AI-powered offensive security
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=100&section=footer" />
 </p>
