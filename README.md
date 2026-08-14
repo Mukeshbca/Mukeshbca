@@ -26,12 +26,9 @@
 
 I'm an **Offensive Security Researcher** who thinks like an attacker to defend like a pro. I specialize in **Web, API & Android Penetration Testing**, with a sharp, growing focus on **AI/LLM Security** — hunting vulnerabilities before the bad guys do.
 
-```
-> whoami
-Offensive Security Researcher @ Mich Josh Cybersecurity
-Certified LLM Security Professional (CLLMSP)
-Building the future of AI-powered offensive security
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&background=0D1117&center=false&vCenter=true&width=600&height=100&lines=%3E+whoami;Offensive+Security+Researcher+%40+Mich+Josh+Cybersecurity;Certified+LLM+Security+Professional+(CLLMSP);Building+the+future+of+AI-powered+offensive+security" alt="terminal whoami" />
+</p>
 
 - 🔐 Full pentest lifecycle — recon → exploitation → impact → remediation
 - 🧠 LLM attack research — prompt injection, jailbreaks, excessive agency, MCP exploitation
@@ -69,27 +66,6 @@ Building the future of AI-powered offensive security
 > **Resume Analyzer — AI-Powered Resume Enhancement**
 > AI tool that evaluates resumes, scores them, identifies skill gaps, and recommends certifications — built to bridge the gap between job seekers and recruiters.
 > *(Repo dropping soon 🚀)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Mukeshbca&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&row=1&column=6" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshbca&theme=redical&hide_border=true&area=true" width="97%" />
-</p>
 
 ---
 
