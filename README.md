@@ -12,11 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,20&height=150&section=header&text=Mukesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukeshbca&label=Profile%20Views&color=E11D48&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mukeshbca&label=Profile%20Views&color=E11D48&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Mukeshbca?label=Followers&style=for-the-badge&color=E11D48" />
 </p>
 
 ---
@@ -43,13 +44,13 @@ Building the future of AI-powered offensive security
 ### ⚔️ Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,linux,mysql,bash,git,vscode&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge" />
 </p>
 
 | Domain | Focus |
@@ -74,25 +75,18 @@ Building the future of AI-powered offensive security
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Mukeshbca&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshbca&theme=redical&hide_border=true" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&row=2&column=3" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshbca&theme=redical&hide_border=true&area=true" width="97%" />
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-> ℹ️ The snake animation needs a one-time GitHub Action set up on your own repo (via [platane/snk](https://github.com/Platane/snk)) so it renders your real contribution graph — I've left the placeholder URL pattern above for you to swap in once that Action is running.
 
 ---
 
@@ -109,5 +103,5 @@ Building the future of AI-powered offensive security
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,12,20&height=100&section=footer" />
 </p>
