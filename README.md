@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:8B5CF6&height=180&section=header&text=Mukesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Researcher%20%7C%20AI%2FLLM%20Security&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:8B5CF6&height=260&section=header&text=Mukesh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20AI%2FLLM%20Security&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=Web+%7C+API+%7C+Android+Penetration+Testing;AI%2FLLM+Security+%26+Red+Teaming;Automating+Security+with+MCP+%26+n8n;Certified+LLM+Security+Professional+(CLLMSP)" alt="Typing SVG" />
 
@@ -15,30 +15,65 @@
 
 <br>
 
-## About
+## 📖 About Me
 
-I'm **Mukesh**, an Offensive Security professional specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=780&lines=Offensive+Security+%2B+AI+%2B+Automation;Thinking+like+an+attacker%2C+testing+like+a+pro." alt="about typing" />
+</div>
 
-I work across the full pentest lifecycle — recon, attack surface mapping, exploitation, and remediation guidance — approaching every engagement with an attacker's mindset to find how vulnerabilities chain together for real-world impact.
+I'm **Mukesh**, an **Offensive Security professional** specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
 
-- 🧠 **AI/LLM Security** — researching prompt injection, sensitive data exposure, insecure integrations, and excessive agency in AI systems
-- ⚙️ **Security Automation** — building testing workflows with **MCP** and **n8n**
-- 📋 **Project Coordination** — bridging offensive research with real-world delivery
-- 🤝 **AI-SEC Community** — active contributor
+I work across the **full pentest lifecycle** — reconnaissance, attack surface mapping, exploitation, impact analysis, and remediation guidance — approaching every engagement from an attacker's mindset to uncover how vulnerabilities can be chained together for real-world impact.
 
-**Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🧠 AI/LLM Security Research
+On the AI security front, I actively research LLM-specific risks like **prompt injection**, **sensitive data exposure**, **insecure integrations**, and **excessive agency** — staying ahead of emerging AI-driven attack scenarios.
 
-## Focus Areas
+</td>
+<td width="50%" valign="top">
 
-| | |
+#### ⚙️ Security Automation
+I build practical security workflows using **MCP (Model Context Protocol)** and **n8n automation**, streamlining repetitive testing tasks to make security assessments faster and more scalable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📋 Project Coordination
+Beyond hands-on testing, I contribute to **project planning, coordination, and execution** — bridging offensive research with real-world delivery.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 Community
+Actively involved with the **AI-SEC Community**, sharing knowledge and collaborating on emerging AI and cybersecurity threats.
+
+</td>
+</tr>
+</table>
+
+> 🎯 **My goal is simple:** combine Offensive Security + AI + Automation to push testing efficiency further.
+
+<div align="center">
+
+### 🔍 What I Focus On
+
+</div>
+
+| | Focus Area |
 |---|---|
 | 🌐 | Web, API, and Android penetration testing — end to end |
 | 🤖 | AI/LLM security, prompt injection & red teaming |
 | 🕵️ | Vulnerability research and offensive security engagements |
-| ⚡ | Automation workflows with MCP and n8n |
+| ⚡ | Building automation workflows with MCP and n8n |
 | 📋 | Project coordination and security operations |
+| 🤝 | Active contributor, AI-SEC Community |
+
+**Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
 
 ---
 
