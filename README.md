@@ -26,13 +26,42 @@
 ## 🎯 `whoami`
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="680" alt="whoami terminal" />
-</div>
 
-<br>
+<table width="680">
+<tr>
+<td align="left" style="background:#161B22">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=50&lines=%3E+nmap+-sV+-A+target.com;%3E+burpsuite+--headless+--scan+full;%3E+python3+llm_jailbreak_fuzzer.py+--target+gpt;%3E+status%3A+access_granted+%E2%9C%94" alt="terminal" />
+`🔴` `🟡` `🟢` &nbsp; **mukesh@offensive-sec:~**
+
+</td>
+</tr>
+<tr>
+<td>
+
+```yaml
+name: Mukesh
+role: Offensive Security Researcher
+org: Mich Josh Cybersecurity
+
+focus:
+  - Web / API Penetration Testing
+  - Android Security
+  - AI / LLM Security & Red Teaming
+  - MCP & Agentic AI Exploitation
+
+certs:
+  - CLLMSP (Certified LLM Security Professional)
+
+mindset: "Think like an attacker. Defend like a pro."
+currently_building: "Resume Analyzer — AI-Powered Resume Enhancement 🚀"
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=50&lines=%3E+nmap+-sV+-A+target.com;%3E+burpsuite+--headless+--scan+full;%3E+python3+llm_jailbreak_fuzzer.py+--target+gpt;%3E+status%3A+access_granted+%E2%9C%94" alt="terminal" />
+
 </div>
 
 ---
