@@ -29,13 +29,13 @@ I work across the **full pentest lifecycle** — reconnaissance, attack surface 
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 AI/LLM Security Research
+<img src="https://img.shields.io/badge/🧠_AI%2FLLM_Security_Research-8B5CF6?style=for-the-badge&logoColor=white" /><br><br>
 On the AI security front, I actively research LLM-specific risks like **prompt injection**, **sensitive data exposure**, **insecure integrations**, and **excessive agency** — staying ahead of emerging AI-driven attack scenarios.
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚙️ Security Automation
+<img src="https://img.shields.io/badge/⚙️_Security_Automation-E11D48?style=for-the-badge&logoColor=white" /><br><br>
 I build practical security workflows using **MCP (Model Context Protocol)** and **n8n automation**, streamlining repetitive testing tasks to make security assessments faster and more scalable.
 
 </td>
@@ -43,20 +43,22 @@ I build practical security workflows using **MCP (Model Context Protocol)** and 
 <tr>
 <td width="50%" valign="top">
 
-#### 📋 Project Coordination
+<img src="https://img.shields.io/badge/📋_Project_Coordination-000000?style=for-the-badge&logoColor=white" /><br><br>
 Beyond hands-on testing, I contribute to **project planning, coordination, and execution** — bridging offensive research with real-world delivery.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤝 Community
+<img src="https://img.shields.io/badge/🤝_Community-EA4B71?style=for-the-badge&logoColor=white" /><br><br>
 Actively involved with the **AI-SEC Community**, sharing knowledge and collaborating on emerging AI and cybersecurity threats.
 
 </td>
 </tr>
 </table>
 
-> 🎯 **My goal is simple:** combine Offensive Security + AI + Automation to push testing efficiency further.
+<div align="center">
+<img src="https://img.shields.io/badge/🎯_Goal-Offensive%20Security%20%2B%20AI%20%2B%20Automation-8B5CF6?style=for-the-badge" />
+</div>
 
 <div align="center">
 
