@@ -73,6 +73,11 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<details>
+<summary><img src="https://img.shields.io/badge/💼_CLICK_TO_VIEW_EXPERIENCE-8B5CF6?style=for-the-badge" align="absmiddle" /></summary>
+
+<br>
+
 <div align="center">
 
 ## 💼 Experience
@@ -80,6 +85,7 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 <img src="https://img.shields.io/badge/Mich%20Josh%20Cybersecurity-Devakottai,%20Tamil%20Nadu%20·%20On--site-000000?style=for-the-badge" />
 
 </div>
+
 <br>
 
 <table width="100%">
@@ -113,6 +119,8 @@ Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month in
 </td>
 </tr>
 </table>
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -189,9 +197,9 @@ Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month in
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Arsenal
-
 <div align="center">
+
+## Arsenal
 
 <img src="https://img.shields.io/badge/⚔️_ARSENAL-8B5CF6?style=for-the-badge" />
 
@@ -230,9 +238,9 @@ AI tool that evaluates resumes, scores them, identifies skill gaps, and recommen
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📫 Let's Connect
-
 <div align="center">
+
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/mukesh-k-4b5308270" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
