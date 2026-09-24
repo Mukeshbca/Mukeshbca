@@ -25,11 +25,13 @@
 
 ## 🎯 `whoami`
 
-<div align="center">
-
-<table width="680">
+<table width="100%">
 <tr>
-<td align="left" style="background:#161B22">
+<td width="62%" valign="top">
+
+<table width="100%">
+<tr>
+<td style="background:#161B22">
 
 `🔴` `🟡` `🟢` &nbsp; **mukesh@offensive-sec:~**
 
@@ -59,6 +61,17 @@ currently_building: "Resume Analyzer — AI-Powered Resume Enhancement 🚀"
 </td>
 </tr>
 </table>
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=50&lines=%3E+nmap+-sV+-A+target.com;%3E+burpsuite+--headless+--scan+full;%3E+python3+llm_jailbreak_fuzzer.py+--target+gpt;%3E+status%3A+access_granted+%E2%9C%94" alt="terminal" />
 
