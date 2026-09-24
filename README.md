@@ -60,25 +60,17 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 <img src="https://img.shields.io/badge/🎯_Goal-Offensive%20Security%20%2B%20AI%20%2B%20Automation-8B5CF6?style=for-the-badge" />
 </div>
 
+**Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
+
 <div align="center">
 
-### 🔍 What I Focus On
+[**➜ View Experience**](#experience)
 
 </div>
 
-| | Focus Area |
-|---|---|
-| 🌐 | Web, API, and Android penetration testing — end to end |
-| 🤖 | AI/LLM security, prompt injection & red teaming |
-| 🕵️ | Vulnerability research and offensive security engagements |
-| ⚡ | Building automation workflows with MCP and n8n |
-| 📋 | Project coordination and security operations |
-| 🤝 | Active contributor, AI-SEC Community |
-
-**Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
-
 ---
 
+<a name="experience"></a>
 ## 💼 Experience
 
 <div align="center">
