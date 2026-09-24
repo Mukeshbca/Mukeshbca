@@ -62,15 +62,12 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 
 **Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
 
-<div align="center">
-
-[**➜ View Experience**](#experience)
-
-</div>
-
 ---
 
-<a name="experience"></a>
+<details>
+<summary><b>➜ View Experience</b></summary>
+<br>
+
 ## 💼 Experience
 
 <div align="center">
@@ -95,6 +92,8 @@ Continuously expanding expertise across Offensive Security, Application Security
 `Aug 2024 – Mar 2025 · 8 mos`
 
 Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month internship, gaining hands-on exposure to **Web and API Security testing**. Worked on real-world security assessments, learning vulnerability identification, exploitation techniques, and reporting under the mentorship of **Mr. Michael Joshuva**, building a strong foundation that led to my transition into a full-time Penetration Tester role.
+
+</details>
 
 ---
 
