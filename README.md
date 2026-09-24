@@ -38,6 +38,67 @@ I'm an **Offensive Security Researcher** who thinks like an attacker to defend l
 
 ---
 
+## 🏆 Achievements by Domain
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web & API Security
+
+<img src="https://img.shields.io/badge/Domain-Web%20%26%20API-E11D48?style=flat-square" />
+
+- Full-scope **Web App Pentesting** — recon, vuln discovery, exploitation, reporting
+- **API Security Testing** — auth bypass, IDOR, broken object-level access, rate-limit abuse
+- Hands-on with **OWASP Top 10** (Web & API editions)
+- Burp Suite–driven manual + automated testing workflows
+- Client-ready vulnerability reports with remediation guidance
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Android / Mobile Security
+
+<img src="https://img.shields.io/badge/Domain-Android-000000?style=flat-square" />
+
+- Mobile app penetration testing (static + dynamic analysis)
+- APK reverse engineering & insecure storage detection
+- Insecure communication & improper platform usage checks
+- OWASP MASVS-aligned assessment methodology
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / LLM Security
+
+<img src="https://img.shields.io/badge/Domain-AI%2FLLM-8B5CF6?style=flat-square" />
+
+- **CLLMSP Certified** — Certified LLM Security Professional
+- Jailbreak & prompt injection research
+- Excessive agency & tool-abuse testing in agentic systems
+- OWASP Top 10 for LLM Applications
+- **MCP (Model Context Protocol) security** — tool poisoning, data exfiltration, agent-to-agent abuse
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Automation & Governance
+
+<img src="https://img.shields.io/badge/Domain-Automation-EA4B71?style=flat-square" />
+
+- Security workflow automation using **n8n** + **MCP**
+- Building AI-assisted offensive security tooling
+- Familiar with **NIST AI RMF**, **ISO/IEC 42001**, **GDPR**, **HIPAA**
+- Active contributor — **AI-SEC Community**
+
+</td>
+</tr>
+</table>
+
+---
+
 ### ⚔️ Arsenal
 
 <p align="left">
