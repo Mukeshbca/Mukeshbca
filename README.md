@@ -73,10 +73,6 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<details>
-<summary><img src="https://img.shields.io/badge/💼_Click_to_View_Experience-8B5CF6?style=for-the-badge" /></summary>
-<br>
-
 <div align="center">
 
 ## 💼 Experience
@@ -117,8 +113,6 @@ Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month in
 </td>
 </tr>
 </table>
-
-</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
