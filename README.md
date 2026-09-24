@@ -53,6 +53,68 @@ currently_building: "Resume Analyzer — AI-Powered Resume Enhancement 🚀"
 
 ---
 
+## 📖 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=780&lines=Offensive+Security+%2B+AI+%2B+Automation;Thinking+like+an+attacker%2C+testing+like+a+pro." alt="about typing" />
+
+</div>
+
+I'm **Mukesh**, an **Offensive Security professional** specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
+
+I work across the **full pentest lifecycle** — reconnaissance, attack surface mapping, exploitation, impact analysis, and remediation guidance — approaching every engagement from an attacker's mindset to uncover how vulnerabilities can be chained together for real-world impact.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 AI/LLM Security Research
+On the AI security front, I actively research LLM-specific risks like **prompt injection**, **sensitive data exposure**, **insecure integrations**, and **excessive agency** — staying ahead of emerging AI-driven attack scenarios.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Security Automation
+I build practical security workflows using **MCP (Model Context Protocol)** and **n8n automation**, streamlining repetitive testing tasks to make security assessments faster and more scalable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📋 Project Coordination
+Beyond hands-on testing, I contribute to **project planning, coordination, and execution** — bridging offensive research with real-world delivery.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 Community
+Actively involved with the **AI-SEC Community**, sharing knowledge and collaborating on emerging AI and cybersecurity threats.
+
+</td>
+</tr>
+</table>
+
+> 🎯 **My goal is simple:** combine Offensive Security + AI + Automation to push testing efficiency further.
+
+<div align="center">
+
+### 🔍 What I Focus On
+
+</div>
+
+| | Focus Area |
+|---|---|
+| 🌐 | Web, API, and Android penetration testing — end to end |
+| 🤖 | AI/LLM security, prompt injection & red teaming |
+| 🕵️ | Vulnerability research and offensive security engagements |
+| ⚡ | Building automation workflows with MCP and n8n |
+| 📋 | Project coordination and security operations |
+| 🤝 | Active contributor, AI-SEC Community |
+
+---
+
 ## 🏆 Achievements by Domain
 
 <table width="100%">
