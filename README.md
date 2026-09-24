@@ -1,211 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:8B5CF6&height=200&section=header&text=Mukesh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Researcher%20%7C%20AI%2FLLM%20Security&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:8B5CF6&height=180&section=header&text=Mukesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Researcher%20%7C%20AI%2FLLM%20Security&descAlignY=55&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=750&lines=Breaking+systems+to+build+stronger+security.;Web+%7C+API+%7C+Android+Penetration+Testing;AI%2FLLM+Security+%26+Red+Teaming;Automating+Security+with+MCP+%26+n8n;Certified+LLM+Security+Professional+(CLLMSP)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=650&lines=Web+%7C+API+%7C+Android+Penetration+Testing;AI%2FLLM+Security+%26+Red+Teaming;Automating+Security+with+MCP+%26+n8n;Certified+LLM+Security+Professional+(CLLMSP)" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CLLMSP-Certified-E11D48?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Offensive%20Security-Researcher-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FLLM-Security-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Red%20Team-Leader-EA4B71?style=for-the-badge&logo=Firefox&logoColor=white" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mukeshbca&label=PROFILE+VIEWS&color=E11D48&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Mukeshbca?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
-<img src="https://img.shields.io/badge/dynamic/json?color=39FF14&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fzen&style=for-the-badge&logo=statuspage" />
+<img src="https://img.shields.io/badge/CLLMSP-Certified-E11D48?style=flat-square" />
+<img src="https://img.shields.io/badge/Offensive%20Security-Researcher-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%2FLLM-Security-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Red%20Team-Leader-EA4B71?style=flat-square" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+## About
 
-## 🎯 `whoami`
+I'm **Mukesh**, an Offensive Security professional specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
 
-<div align="center">
+I work across the full pentest lifecycle — recon, attack surface mapping, exploitation, and remediation guidance — approaching every engagement with an attacker's mindset to find how vulnerabilities chain together for real-world impact.
 
-<img src="https://img.shields.io/badge/-%20-FF5F56?style=for-the-badge" width="14" />&nbsp;<img src="https://img.shields.io/badge/-%20-FFBD2E?style=for-the-badge" width="14" />&nbsp;<img src="https://img.shields.io/badge/-%20-27C93F?style=for-the-badge" width="14" />&nbsp;&nbsp;**mukesh@offensive-sec:~**
+- 🧠 **AI/LLM Security** — researching prompt injection, sensitive data exposure, insecure integrations, and excessive agency in AI systems
+- ⚙️ **Security Automation** — building testing workflows with **MCP** and **n8n**
+- 📋 **Project Coordination** — bridging offensive research with real-world delivery
+- 🤝 **AI-SEC Community** — active contributor
 
-```yaml
-name: Mukesh
-role: Offensive Security Researcher
-org: Mich Josh Cybersecurity
-
-focus:
-  - Web / API Penetration Testing
-  - Android Security
-  - AI / LLM Security & Red Teaming
-  - MCP & Agentic AI Exploitation
-
-certs:
-  - CLLMSP (Certified LLM Security Professional)
-
-mindset: "Think like an attacker. Defend like a pro."
-currently_building: "Resume Analyzer — AI-Powered Resume Enhancement 🚀"
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&height=50&lines=%3E+nmap+-sV+-A+target.com;%3E+burpsuite+--headless+--scan+full;%3E+python3+llm_jailbreak_fuzzer.py+--target+gpt;%3E+status%3A+access_granted+%E2%9C%94" alt="terminal" />
-
-</div>
+**Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
 
 ---
 
-## 📖 About Me
+## Focus Areas
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=780&lines=Offensive+Security+%2B+AI+%2B+Automation;Thinking+like+an+attacker%2C+testing+like+a+pro." alt="about typing" />
-
-</div>
-
-I'm **Mukesh**, an **Offensive Security professional** specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
-
-I work across the **full pentest lifecycle** — reconnaissance, attack surface mapping, exploitation, impact analysis, and remediation guidance — approaching every engagement from an attacker's mindset to uncover how vulnerabilities can be chained together for real-world impact.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 AI/LLM Security Research
-On the AI security front, I actively research LLM-specific risks like **prompt injection**, **sensitive data exposure**, **insecure integrations**, and **excessive agency** — staying ahead of emerging AI-driven attack scenarios.
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚙️ Security Automation
-I build practical security workflows using **MCP (Model Context Protocol)** and **n8n automation**, streamlining repetitive testing tasks to make security assessments faster and more scalable.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📋 Project Coordination
-Beyond hands-on testing, I contribute to **project planning, coordination, and execution** — bridging offensive research with real-world delivery.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤝 Community
-Actively involved with the **AI-SEC Community**, sharing knowledge and collaborating on emerging AI and cybersecurity threats.
-
-</td>
-</tr>
-</table>
-
-> 🎯 **My goal is simple:** combine Offensive Security + AI + Automation to push testing efficiency further.
-
-<div align="center">
-
-### 🔍 What I Focus On
-
-</div>
-
-| | Focus Area |
+| | |
 |---|---|
 | 🌐 | Web, API, and Android penetration testing — end to end |
 | 🤖 | AI/LLM security, prompt injection & red teaming |
 | 🕵️ | Vulnerability research and offensive security engagements |
-| ⚡ | Building automation workflows with MCP and n8n |
+| ⚡ | Automation workflows with MCP and n8n |
 | 📋 | Project coordination and security operations |
-| 🤝 | Active contributor, AI-SEC Community |
 
 ---
 
-## 🏆 Achievements by Domain
+## Achievements by Domain
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**🌐 Web & API Security**
+- Full-scope web app pentesting — recon → exploitation → impact → remediation
+- API security: auth bypass, IDOR, BOLA, rate-limit abuse, mass assignment
+- OWASP Top 10 (Web & API editions) — hands-on exploitation
+- Burp Suite–driven manual + automated testing
 
-### 🌐&nbsp; Web & API Security
-<img src="https://img.shields.io/badge/Domain-Web%20%26%20API-E11D48?style=flat-square" />
+**📱 Android / Mobile Security**
+- Static + dynamic mobile app pentesting
+- APK reverse engineering & insecure storage detection
+- OWASP MASVS-aligned assessment methodology
 
-- 🎯 Full-scope **Web App Pentesting** — recon → exploitation → impact → remediation
-- 🔑 **API Security** — auth bypass, IDOR, BOLA, rate-limit abuse, mass assignment
-- 📋 **OWASP Top 10** (Web & API editions) — hands-on exploitation
-- 🛠️ Burp Suite–driven manual + automated testing workflows
-- 📝 Client-ready vulnerability reports with clear remediation guidance
+**🤖 AI / LLM Security**
+- CLLMSP Certified — Certified LLM Security Professional
+- Jailbreak & prompt injection research
+- Excessive agency & tool-abuse testing in agentic systems
+- OWASP Top 10 for LLM Applications
+- MCP security: tool poisoning, data exfiltration, agent-to-agent abuse
 
-</td>
-<td width="50%" valign="top">
-
-### 📱&nbsp; Android / Mobile Security
-<img src="https://img.shields.io/badge/Domain-Android-000000?style=flat-square" />
-
-- 🔍 Mobile app pentesting — static + dynamic analysis
-- 🧩 APK reverse engineering & insecure storage detection
-- 📡 Insecure communication & improper platform usage checks
-- ✅ **OWASP MASVS**-aligned assessment methodology
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖&nbsp; AI / LLM Security
-<img src="https://img.shields.io/badge/Domain-AI%2FLLM-8B5CF6?style=flat-square" />
-
-- 🎓 **CLLMSP Certified** — Certified LLM Security Professional
-- 💉 Jailbreak & prompt injection research
-- 🕹️ Excessive agency & tool-abuse testing in agentic systems
-- 📋 **OWASP Top 10 for LLM Applications**
-- 🔗 **MCP Security** — tool poisoning, data exfiltration, agent-to-agent abuse
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡&nbsp; Automation & Governance
-<img src="https://img.shields.io/badge/Domain-Automation-EA4B71?style=flat-square" />
-
-- ⚙️ Security workflow automation using **n8n** + **MCP**
-- 🤖 Building AI-assisted offensive security tooling
-- 📜 **NIST AI RMF**, **ISO/IEC 42001**, **GDPR**, **HIPAA**
-- 🤝 Active contributor — **AI-SEC Community**
-
-</td>
-</tr>
-</table>
+**⚡ Automation & Governance**
+- Security workflow automation using n8n + MCP
+- AI-assisted offensive security tooling
+- NIST AI RMF, ISO/IEC 42001, GDPR, HIPAA awareness
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshbca&theme=radical&hide_border=true&background=0D1117&ring=E11D48&fire=8B5CF6&currStreakLabel=E11D48" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=c9d1d9" />
 
 </div>
 
-> 💡 *Stats cards render live once your GitHub activity (repos, commits, stars) builds up — keep pushing code and these will fill in automatically.*
-
 ---
 
-## 🔥 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mukeshbca/Mukeshbca/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> ⚙️ *This animated snake needs a one-time GitHub Action setup — [Platane/snk](https://github.com/Platane/snk) — ping me if you want the exact workflow file for your repo.*
-
----
-
-## ⚔️ Arsenal
+## Arsenal
 
 <div align="center">
 
@@ -213,58 +88,36 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-
-</div>
-
-<br>
-
-| 🎯 Domain | 🔍 Focus |
-|---|---|
-| 🌐 **Web & API Security** | Recon, vulnerability discovery, exploitation, reporting |
-| 📱 **Android Security** | Mobile app penetration testing |
-| 🤖 **AI/LLM Security** | Jailbreaks, prompt injection, OWASP Top 10 for LLMs |
-| 🔗 **MCP Security** | Tool poisoning, data exfiltration, agent security |
-| ⚡ **Automation** | Security workflows via MCP & n8n |
-| 📋 **Governance** | NIST AI RMF, ISO/IEC 42001, GDPR/HIPAA |
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-### 🚀 Resume Analyzer — AI-Powered Resume Enhancement
-
-*AI tool that evaluates resumes, scores them, identifies skill gaps, and recommends certifications — built to bridge the gap between job seekers and recruiters.*
-
-<img src="https://img.shields.io/badge/Status-Repo%20Dropping%20Soon-E11D48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## Featured Project
+
+**Resume Analyzer — AI-Powered Resume Enhancement**
+AI tool that evaluates resumes, scores them, identifies skill gaps, and recommends certifications — built to bridge the gap between job seekers and recruiters. *(Repo dropping soon)*
+
+---
+
+## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mukesh-k-4b5308270" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-<b>🛡️ Offensive Security + AI + Automation — making security testing smarter, faster, scalable. 🛡️</b>
+<b>Offensive Security + AI + Automation — making security testing smarter, faster, scalable.</b>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:E11D48&height=120&section=footer" />
