@@ -74,7 +74,7 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <details>
-<summary><b>➜ View Experience</b></summary>
+<summary><img src="https://img.shields.io/badge/💼_Click_to_View_Experience-8B5CF6?style=for-the-badge" /></summary>
 <br>
 
 <div align="center">
