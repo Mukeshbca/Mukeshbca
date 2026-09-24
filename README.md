@@ -11,14 +11,23 @@
 <img src="https://img.shields.io/badge/AI%2FLLM-Security-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Red%20Team-Leader-EA4B71?style=flat-square" />
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mukeshbca&label=PROFILE+VIEWS&color=E11D48&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Mukeshbca?label=FOLLOWERS&style=flat-square&color=8B5CF6" />
+
 </div>
 
 <br>
 
-## 📖 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
+
+## 📖 About Me
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=780&lines=Offensive+Security+%2B+AI+%2B+Automation;Thinking+like+an+attacker%2C+testing+like+a+pro." alt="about typing" />
+
 </div>
 
 I'm **Mukesh**, an **Offensive Security professional** specializing in **Web, API & Android Penetration Testing**, **AI/LLM Security**, and **Security Automation**.
@@ -62,7 +71,7 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 
 **Currently building:** Resume Analyzer — an AI-powered resume enhancement tool
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <details>
 <summary><b>➜ View Experience</b></summary>
@@ -95,49 +104,88 @@ Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month in
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Achievements by Domain
+<div align="center">
 
-**🌐 Web & API Security**
+## 🏆 Achievements by Domain
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🌐_Web_%26_API_Security-E11D48?style=for-the-badge&logoColor=white" /><br><br>
+
 - Full-scope web app pentesting — recon → exploitation → impact → remediation
 - API security: auth bypass, IDOR, BOLA, rate-limit abuse, mass assignment
 - OWASP Top 10 (Web & API editions) — hands-on exploitation
 - Burp Suite–driven manual + automated testing
 
-**📱 Android / Mobile Security**
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/📱_Android_%2F_Mobile_Security-000000?style=for-the-badge&logoColor=white" /><br><br>
+
 - Static + dynamic mobile app pentesting
 - APK reverse engineering & insecure storage detection
 - OWASP MASVS-aligned assessment methodology
 
-**🤖 AI / LLM Security**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🤖_AI_%2F_LLM_Security-8B5CF6?style=for-the-badge&logoColor=white" /><br><br>
+
 - CLLMSP Certified — Certified LLM Security Professional
 - Jailbreak & prompt injection research
 - Excessive agency & tool-abuse testing in agentic systems
 - OWASP Top 10 for LLM Applications
 - MCP security: tool poisoning, data exfiltration, agent-to-agent abuse
 
-**⚡ Automation & Governance**
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/⚡_Automation_%26_Governance-EA4B71?style=for-the-badge&logoColor=white" /><br><br>
+
 - Security workflow automation using n8n + MCP
 - AI-assisted offensive security tooling
 - NIST AI RMF, ISO/IEC 42001, GDPR, HIPAA awareness
 
----
+</td>
+</tr>
+</table>
 
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mukeshbca&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=8B5CF6&text_color=c9d1d9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbca&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=c9d1d9" />
 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshbca&theme=radical&hide_border=true&background=0D1117&ring=E11D48&fire=8B5CF6&currStreakLabel=E11D48" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mukeshbca&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## Arsenal
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/⚔️_ARSENAL-8B5CF6?style=for-the-badge" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=py,linux,mysql,bash,git,vscode,docker&theme=dark" />
 
@@ -154,25 +202,38 @@ Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month in
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Featured Project
+<div align="center">
 
-**Resume Analyzer — AI-Powered Resume Enhancement**
-AI tool that evaluates resumes, scores them, identifies skill gaps, and recommends certifications — built to bridge the gap between job seekers and recruiters. *(Repo dropping soon)*
+## 🚀 Featured Project
 
----
+<img src="https://img.shields.io/badge/Resume_Analyzer-AI_Powered_Resume_Enhancement-E11D48?style=for-the-badge" />
 
-## Connect
+<br><br>
+
+AI tool that evaluates resumes, scores them, identifies skill gaps, and recommends certifications — built to bridge the gap between job seekers and recruiters.
+
+<img src="https://img.shields.io/badge/Status-Repo%20Dropping%20Soon-8B5CF6?style=for-the-badge" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mukesh-k-4b5308270" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-<b>Offensive Security + AI + Automation — making security testing smarter, faster, scalable.</b>
+<img src="https://img.shields.io/badge/🛡️_Offensive_Security_%2B_AI_%2B_Automation-Making_security_testing_smarter,_faster,_scalable-8B5CF6?style=for-the-badge" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:E11D48&height=120&section=footer" />
