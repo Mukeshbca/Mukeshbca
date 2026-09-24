@@ -74,7 +74,7 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <details>
-<summary><img src="https://img.shields.io/badge/💼_CLICK_TO_VIEW_EXPERIENCE-8B5CF6?style=for-the-badge" align="absmiddle" /></summary>
+<summary><img src="https://img.shields.io/badge/CLICK_TO-VIEW_EXPERIENCE_%E2%96%BE-8B5CF6?style=for-the-badge&labelColor=E11D48&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4%3D&logoSize=auto" align="absmiddle" alt="View Experience" /></summary>
 
 <br>
 
