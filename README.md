@@ -77,15 +77,21 @@ Actively involved with the **AI-SEC Community**, sharing knowledge and collabora
 <summary><b>➜ View Experience</b></summary>
 <br>
 
+<div align="center">
+
 ## 💼 Experience
 
-<div align="center">
-<img src="https://img.shields.io/badge/Mich%20Josh%20Cybersecurity-Devakottai,%20Tamil%20Nadu-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mich%20Josh%20Cybersecurity-Devakottai,%20Tamil%20Nadu%20·%20On--site-000000?style=for-the-badge" />
+
 </div>
 <br>
 
-**🔴 Offensive Security Researcher** · Full-time
-`Mar 2025 – Present · 1 yr 7 mos`
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<img src="https://img.shields.io/badge/Offensive_Security_Researcher-Full--Time-E11D48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mar_2025_→_Present-1_yr_7_mos-8B5CF6?style=flat-square" />
 
 Working as a Penetration Tester specializing in **Web, API, and Android Security**, with a growing focus on **AI/LLM Security**. I perform end-to-end security assessments — reconnaissance, vulnerability discovery, exploitation, impact analysis, and reporting — identifying real-world risks and providing actionable remediation guidance.
 
@@ -93,14 +99,24 @@ I build security automation workflows using **MCP (Model Context Protocol)** and
 
 Continuously expanding expertise across Offensive Security, Application Security, Mobile Security, and AI/LLM Security.
 
-`Python` `MCP Server Vulnerability Testing` `+3 skills`
+</td>
+</tr>
+</table>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-**⚪ Offensive Security Researcher** · Internship
-`Aug 2024 – Mar 2025 · 8 mos`
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<img src="https://img.shields.io/badge/Offensive_Security_Researcher-Internship-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aug_2024_→_Mar_2025-8_mos-E11D48?style=flat-square" />
 
 Started my cybersecurity career at Mich Josh Cybersecurity through an 8-month internship, gaining hands-on exposure to **Web and API Security testing**. Worked on real-world security assessments, learning vulnerability identification, exploitation techniques, and reporting under the mentorship of **Mr. Michael Joshuva**, building a strong foundation that led to my transition into a full-time Penetration Tester role.
+
+</td>
+</tr>
+</table>
 
 </details>
 
